@@ -1,6 +1,6 @@
 # Analysis of Malicious Mobile Application
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/notebooks/Malicious_Mobile_App_Detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swapnasaina274/malicious-mobile-app-detection/blob/main/notebooks/Malicious_Mobile_App_Detection.ipynb)
 
 ## Project Summary
 This project focuses on automated malicious mobile application detection and classification using the **CICMalDroid 2020** dataset and Machine Learning models.
@@ -14,7 +14,7 @@ This project focuses on automated malicious mobile application detection and cla
 
 ## Datasets & Model Artifacts
 Large dataset files and model binaries are hosted on Google Drive:
-- **Google Drive Artifacts Link:** [PASTE_YOUR_COPIED_GOOGLE_DRIVE_FOLDER_LINK_HERE]
+- **Google Drive Artifacts Link:** [(https://drive.google.com/drive/folders/1gaHYbL9jFKUI2T688MxhVM06RxP_AO4r?usp=sharing)]
 
 ### Saved Files in Drive:
 - `malware_rf_model.pkl` (Trained Random Forest Classifier)
@@ -25,4 +25,4 @@ Large dataset files and model binaries are hosted on Google Drive:
 ## Quickstart for Incoming Developers
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/swapnasaina274/malicious-mobile-app-detection.git](https://github.com/swapnasaina274/malicious-mobile-app-detection.git)
