@@ -1,7 +1,5 @@
 # Analysis of Malicious Mobile Application
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swapnasaina274/malicious-mobile-app-detection/blob/main/Malicious_Mobile_Application_Detection.ipynb)
-
 ## Project Summary
 This project focuses on automated malicious mobile application detection and classification using the **CICMalDroid 2020** dataset and Machine Learning models.
 
