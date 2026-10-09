@@ -20,13 +20,5 @@ Large dataset files and model binaries are hosted on Google Drive:
 - `malware_label_encoder.pkl` (Label Encoder)
 - `CICMalDroid 2020` Dataset files
 
-## Quickstart for Incoming Developers
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/swapnasaina274/malicious-mobile-app-detection.git
-2. Download Model Artifacts:
-   Download `malware_rf_model.pkl`, `malware_scaler.pkl`, and `malware_label_encoder.pkl` from the Google Drive link above and place them into your project root directory.
-3. Install Dependencies:
-   ```bash
-   pip install -r requirements.txt
+
    
